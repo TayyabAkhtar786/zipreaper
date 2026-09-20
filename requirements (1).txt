@@ -1,0 +1,20 @@
+# ZipReaper Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (minimal, security-focused)
+colorama==0.4.6          # Cross-platform terminal colors for UI
+
+# Development dependencies (optional, for contributors)
+# Uncomment below for development:
+# pytest==7.4.0           # Testing framework
+# pytest-cov==4.1.0       # Code coverage measurement
+# pylint==2.17.0          # Code quality analysis
+# black==23.7.0           # Code formatter
+# flake8==6.0.0           # Linter
+# mypy==1.4.1             # Static type checking
+
+# Notes:
+# - Python 3.8+ required
+# - zipfile module included in Python standard library
+# - No external security dependencies with CVEs
+# - All versions pinned for reproducibility

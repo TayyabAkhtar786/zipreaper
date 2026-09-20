@@ -1,0 +1,130 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+
+# Code Quality
+.pylint.d/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*.orig
+
+# OS Specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Sensitive Data (IMPORTANT!)
+.env
+.env.local
+credentials.json
+secrets.json
+api_key.txt
+password*.txt
+config/local/
+private/
+
+# Extracted Files (from ZIP testing)
+extracted_files/
+temp_extract/
+*.extracted
+
+# Large Wordlists (if not committed)
+# Uncomment below if storing large wordlists locally
+# rockyou.txt
+# *.wordlist
+# wordlists/*.txt
+
+# Build Artifacts
+*.so
+*.o
+*.c
+*.a
+*.out
+*.exe
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# CI/CD
+.github/workflows/temp/
+.gitlab-ci-local/
+
+# Project Specific
+test_output/
+results/
+*.zip.bak
+
+# Generated Documentation
+docs/_build/
+docs/.doctrees/
+site/
+
+# Security Scans
+*.sarif
+.snyk/
+
+# Misc
+*.swp
+.vscode/settings.json
+.vscode/launch.json
