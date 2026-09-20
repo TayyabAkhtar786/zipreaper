@@ -135,10 +135,9 @@ python3 zip_reaper.py
 ```
 
 ### Example Session
-```
+
 <img width="1120" height="483" alt="WhatsApp Image 2026-05-10 at 12 53 47 PM" src="https://github.com/user-attachments/assets/82e792fe-16d2-49d6-a124-0037edc31f2e" />
 <img width="1114" height="600" alt="WhatsApp Image 2026-05-10 at 12 56 56 PM" src="https://github.com/user-attachments/assets/ac5db62a-e66a-4b7b-adb8-bc22754b5342" />
-```
 
 ---
 
@@ -239,30 +238,6 @@ STRONG PASSWORD STRATEGY:
 ```
 
 ---
-
-## 📁 Project Structure
-
-```
-zipreaper/
-├── zip_reaper.py              # Main application (600+ lines)
-├── requirements.txt           # Python dependencies
-├── rockyou.txt               # Dictionary wordlist (14.3M passwords)
-├── test_cases/
-│   ├── weak.zip              # Password: "password123"
-│   ├── weak1_hash.txt         # Extracted hash for analysis
-│   ├── strong.zip            # Password: (not in wordlist)
-│   └── strong_hash.txt        # Hash of strong password
-├── docs/
-│   ├── ARCHITECTURE.md        # Technical design documentation
-│   ├── RESEARCH.md            # Password vulnerability research
-│   ├── ATTACK_RESULTS.md      # Detailed performance analysis
-│   └── BLUE_TEAM_GUIDE.md     # Defensive countermeasures
-├── README.md                 # This file
-├── CONTRIBUTING.md           # Contribution guidelines
-├── LICENSE                   # MIT License
-├── SECURITY.md               # Security policy & disclosure
-└── .gitignore               # Git ignore rules
-```
 
 ---
 
