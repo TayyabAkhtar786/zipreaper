@@ -2,9 +2,9 @@
 
 **Author**: Tayyab Akhtar  
 **Date**: 2026  
-**Institution**: [Your University]  
+**Institution**: International Islamic University Islamabad(IIUI)  
 **Course**: Information Security  
-**Supervisor**: [Course Instructor]
+**Supervisor**: Dr Zahid Mehmood
 
 ---
 
