@@ -13,10 +13,6 @@
 
 ##  Overview
 
-## Screenshots
-<img width="1120" height="483" alt="WhatsApp Image 2026-05-10 at 12 53 47 PM" src="https://github.com/user-attachments/assets/82e792fe-16d2-49d6-a124-0037edc31f2e" />
-<img width="1114" height="600" alt="WhatsApp Image 2026-05-10 at 12 56 56 PM" src="https://github.com/user-attachments/assets/ac5db62a-e66a-4b7b-adb8-bc22754b5342" />
-
 **ZipReaper** is a sophisticated dictionary-based password cracking tool specifically engineered for **ZIP file security assessment**. Built with an emphasis on **educational value** and **penetration testing workflows**, it demonstrates real-world password vulnerability patterns and serves as a critical learning resource for both offensive security professionals and defensive security teams.
 
 ### Key Metrics
@@ -140,21 +136,8 @@ python3 zip_reaper.py
 
 ### Example Session
 ```
-[?] Enter ZIP filename (example: weak.zip): protected_archive.zip
-[*] Target   : protected_archive.zip
-[*] Wordlist : rockyou.txt
-[?] Start attack? (yes/no): yes
-
-[*] Wordlist loaded successfully
-[*] Starting attack...
-
-[✓] [████████████░░░░░░░░] 62.3% | 5,420/14,344,391 | 4,620/sec | Trying: password123
-
-[*] PASSWORD FOUND!
-[*] Password      : password123
-[*] Total Attempts: 1,384
-[*] Time Taken    : 0.3 seconds
-[*] Attack Speed  : 4,620 passwords/sec
+<img width="1120" height="483" alt="WhatsApp Image 2026-05-10 at 12 53 47 PM" src="https://github.com/user-attachments/assets/82e792fe-16d2-49d6-a124-0037edc31f2e" />
+<img width="1114" height="600" alt="WhatsApp Image 2026-05-10 at 12 56 56 PM" src="https://github.com/user-attachments/assets/ac5db62a-e66a-4b7b-adb8-bc22754b5342" />
 ```
 
 ---
